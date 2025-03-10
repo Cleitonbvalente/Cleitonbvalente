@@ -10,11 +10,11 @@ Seja bem-vindo ao meu perfil no GitHub!
 
 ## GitHub Stats
 
-![Cleiton's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleitonbarbosa&show_icons=true&theme=dark)
+![Cleiton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cleitonbvalente&show_icons=true&theme=dark)
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleitonbarbosa&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleitonbvalente&layout=compact&theme=dark)
 
 ##
 

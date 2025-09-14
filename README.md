@@ -19,8 +19,8 @@ Seja bem-vindo ao meu perfil no GitHub!
   <img align="center" alt="Swift" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" alt="SQL" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="R" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="PowerBI" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg">
-  <img align="center" alt="Tableau" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg">
+  <img align="center" alt="PowerBI" height="35" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.png">
+  <img align="center" alt="Tableau" height="35" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Tableau_Logo.png">
   <img align="center" alt="Java" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 

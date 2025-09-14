@@ -14,14 +14,14 @@ Seja bem-vindo ao meu perfil no GitHub!
 - ⚡ Curiosidade: Adoro **criar produtos digitais que facilitem a vida das pessoas**.  
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="C" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Swift" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-  <img align="center" alt="SQL" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="R" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="PowerBI" height="35" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.png">
-  <img align="center" alt="Tableau" height="35" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Tableau_Logo.png">
-  <img align="center" alt="Java" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" height="35" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" height="35" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" title="Swift" height="35" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" title="SQL" height="35" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" title="R" height="35" width="40">
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" title="Power BI" height="35" style="filter: invert(1);">
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" title="Tableau" height="35" style="filter: brightness(0) invert(1);">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" height="35" width="40">
 </div>
 
 ##
